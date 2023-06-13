@@ -1,0 +1,2 @@
+D:\VS2022PG\Test_230422\x64\Debug\Test_230422.exe
+D:\PG_VS2022\Test_230422\x64\Debug\Test_230422.exe

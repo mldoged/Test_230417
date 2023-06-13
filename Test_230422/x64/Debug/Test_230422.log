@@ -1,0 +1,10 @@
+﻿  Test.c
+D:\PG_VS2022\Test_230422\Test.c(213,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\PG_VS2022\Test_230422\Test.c(213,9): message : 请考虑在格式字符串中使用“%zd”
+D:\PG_VS2022\Test_230422\Test.c(214,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\PG_VS2022\Test_230422\Test.c(214,9): message : 请考虑在格式字符串中使用“%zd”
+D:\PG_VS2022\Test_230422\Test.c(215,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\PG_VS2022\Test_230422\Test.c(215,9): message : 请考虑在格式字符串中使用“%zd”
+D:\PG_VS2022\Test_230422\Test.c(216,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\PG_VS2022\Test_230422\Test.c(216,9): message : 请考虑在格式字符串中使用“%zd”
+  Test_230422.vcxproj -> D:\PG_VS2022\Test_230422\x64\Debug\Test_230422.exe
