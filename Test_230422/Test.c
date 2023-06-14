@@ -225,6 +225,19 @@ int main()
 	//int* ptr = (int*)(&a + 1);
 	//printf("%d,&d\n", *(a + 1), *(ptr - 1));//2,5
 
-
+	//struct Test
+	//{
+	//	int num;
+	//	char* pcName;
+	//	short sDate;
+	//	char cha[2];
+	//	short sBa[4];
+	//}*p;//指针类型为struct Test *,结构体大小为24个字节
+	//p = (struct Test*)0x100000;
+	//printf("%p\n", p);
+	//printf("%p\n", p + 0x1);//+(0x1*指针类型大小)
+	//printf("%p\n", (unsigned long)p + 0x1);//转换为十进制整数后+1
+	//printf("%p\n", (unsigned int*)p + 0x1);
+	printf("%d\n", sizeof(char*));
 	return 0;
 }
